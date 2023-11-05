@@ -64,3 +64,4 @@ See the [Bedrock installation documentation](https://roots.io/bedrock/docs/insta
 ## Related Projects
 
 - [`andriilive/gitpod-wordpress-experiments`](https://github.com/andriilive/gitpod-wordpress-experiments)
+- [`andriilive/wp-demo-data`](https://github.com/andriilive/wp-demo-data)
